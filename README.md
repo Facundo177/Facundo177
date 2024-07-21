@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Facundo177/Facundo177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+<div align=center>
+ <a href="www.linkedin.com/in/facundo-gabriel-gaitán-segura-16bb75264" target="_blank"><img height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="mailto:facundogaitansegura@gmail.com" target="_blank"><img height="30px" alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="https://leetcode.com/u/Facundo177/" target="_blank"><img height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=2A2F3D&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode" /></a>
+<a href="https://facundo177.itch.io/" target="_blank"><img height="30px" alt="Itch.io" src="https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=2A2F3D&logo=itch.io&logoColor=FA5C5C&label=" /></a>
+</div>
