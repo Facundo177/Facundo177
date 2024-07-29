@@ -20,7 +20,7 @@
 - :student: I took part in many `Web Dev` courses such as `Oracle Next Education(ONE)`, `Argentina Programa` and `Codo a Codo`
 - :technologist: I love learning new things, that is why I am a self-taught `Game Dev` in my free time.
 - :computer: I did an internship in the `IT` department at Ford Argentina, as my last year of High School.
-- :thinking: I’m currently open for a new `job opportunity`, more information in my [LinkedIn]( www.linkedin.com/in/facundo-gabriel-gaitán-segura-16bb75264 ).
+- :thinking: I’m currently open for a new `job opportunity`, more information in my [LinkedIn](https://linkedin.com/in/facundo-gabriel-gaitán-segura-16bb75264).
 
 
 <!--
